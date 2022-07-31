@@ -15,3 +15,4 @@ for (let i = 0; i < listaDeTeclas.length; i++) {
         tocaSom(idAudio)
     };
 }
+
